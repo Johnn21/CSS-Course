@@ -1,0 +1,44 @@
+.main {
+    margin-top: 40px;
+}
+
+.section-area {
+    border: 2px solid #0e4f1f;
+    border-left: none;
+    width: 70%;
+    margin: 10px 0;
+    padding: 20px 15px;
+    background: #c5fad3;
+}
+
+.section-area:hover {
+    border: 5px solid red;
+}
+
+.section-area-premium {
+    background: #0e4f1f;
+}
+
+.section-area-premium-title {
+    color: white;
+}
+
+.section-area a {
+    text-decoration: none;
+    cursor: default;
+}
+
+.section-title {
+    color: black;
+}
+
+.section-subtitle {
+    color: #858585;
+    font-weight: 20px;
+}
+
+.section-description {
+    background: white;
+    color: black;
+    padding: 16px;
+}
